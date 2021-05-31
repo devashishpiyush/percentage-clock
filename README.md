@@ -3,6 +3,7 @@ A **minimalistic single page** percentage clock.
 
 > Repository Information
 * website : [percentageclock-devashishpiyush.netlify.app](https://percentageclock-devashishpiyush.netlify.app/)
+* Dribbble : [dribbble.com/shots/15754609-Percentage-Clock](https://dribbble.com/shots/15754609-Percentage-Clock)
 * repository-link : [github.com/devashishpiyush/percentage-clock](http://github.com/devashishpiyush/percentage-clock)
 * language : HTML, CSS, JavaScript
 
